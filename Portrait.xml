@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<archive>
+    
+    <item>
+        <nature>Portret Painting</nature>
+        <author>AuthorName</author>
+        <location>British Museum London</location>
+        <history>Historical context, year of creation</history>
+        <description>Type of painting, methods of creation, year of creation et cetera.</description>
+        <itemMetadata>Other additional metadata or misc information</itemMetadata>
+    </item>
+    
+</archive>
