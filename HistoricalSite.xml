@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="HistoricalSite.xsl"?>
+
+<site>
+    <text>
+        <type>Structure</type>
+        <name>Eiffel Tower</name>
+        <description>A metal tower in the middle of Paris</description>
+        <metadata>More data here</metadata>
+        <history>Historical description</history>
+        <date>Historical dates</date>
+    </text>
+    <visual>
+        <image>
+            <img src="file:///C:/path/image.png" alt="Description of the Image" />
+        </image>
+        <imageCaption>Image Caption bellow</imageCaption>
+    </visual>
+
+</site>
